@@ -1,0 +1,10 @@
+.fundo{
+    background-color: rosybrown;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
